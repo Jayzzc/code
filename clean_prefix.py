@@ -27,4 +27,9 @@ data2.to_csv(outputfile2, index = False, header = False, encoding = 'utf-8')
 
 修改四
 
+<<<<<<< HEAD
 修改六
+=======
+
+修改五
+>>>>>>> grn
