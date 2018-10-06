@@ -15,3 +15,6 @@ data2 = pd.DataFrame(data2[0].str.replace('.*?\d+?\\t ', ''))
 
 data1.to_csv(outputfile1, index = False, header = False, encoding = 'utf-8') #保存结果
 data2.to_csv(outputfile2, index = False, header = False, encoding = 'utf-8')
+
+
+修改一下
